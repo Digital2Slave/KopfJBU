@@ -2,21 +2,21 @@
 2007_Kopf's Joint Bilateral Upsampling. Only for academic research!!!
 
 ## Input images
-### 视差图(深度图)
+### Disparity image(Depth image)
 ![dis](./disp1.png)
 
 
 
-### 彩色图
+### Color image
 ![col](./view1.png)
 
 
 
-## Output images
-### 上采样图
+## Output image
+### Upsampling image
 ![up](./kopfout2.png)
 
 
 
-### 坏点图
+### Bad points image
 ![badimg](./kopfbad2.png)
